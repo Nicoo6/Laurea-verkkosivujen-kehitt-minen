@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(78, 77, 77, 0.295);
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+}
+
+p {
+    color: lightgray;
+    font-size: 12px;
+}
+
+ol {
+    color: white;
+    list-style: upper-alpha;
+}
+
+ul {
+    color: white;
+    list-style: square;
+}
+
+.myDiv {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+figure {
+    margin: 0px;
+    width: 500px;
+}
+
+figcaption {
+    padding: 2px;
+    background-color: blue;
+}
